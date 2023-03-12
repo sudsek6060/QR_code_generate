@@ -11,7 +11,6 @@ body{
     width: 35%;
     height: 350px; /* 500px */
     margin: 50px auto;
-    /* margin-top: 10%; */
 }
 .title{
     text-align: center;
@@ -39,6 +38,5 @@ body{
 
 }
 img{
-    
     margin: 30px auto;
 }
